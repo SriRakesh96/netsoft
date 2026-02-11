@@ -110,9 +110,6 @@
         <?php include('home-features.php');?>
 
 
-        
-        
-            <?php// include("home-services.php");?>
 
             <?php include("home-contact.php");?>
 
