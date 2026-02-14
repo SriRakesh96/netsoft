@@ -88,7 +88,7 @@
             <div class="col-xl-4 col-lg-5">
                 <div class="cta-button-group--one text-center">
 
-                    <a href="contact.html" class="btn btn--white btn-one">
+                    <a href="contact" class="btn btn--white btn-one">
                         <span class="btn-icon me-2">
                             <i class="far fa-comment-alt"></i>
                         </span>
@@ -113,7 +113,7 @@
 
             <?php include("home-contact.php");?>
 
-            <?php include('home-clients.php');?>
+            <?php //include('home-clients.php');?>
 
 
              </div>

@@ -30,7 +30,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.netsoftsi.com" class="hover-style-link text-color-primary">
+                            <a href="/" class="hover-style-link text-color-primary">
                                 www.netsoftsi.com
                             </a>
                         </li>
@@ -41,10 +41,10 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 footer-widget">
                     <h6 class="footer-widget__title mb-20">Our Services</h6>
                     <ul class="footer-widget__list">
-                        <li><a href="services.html" class="hover-style-link">SAP Contract Staffing</a></li>
-                        <li><a href="services.html" class="hover-style-link">SAP S/4HANA Implementation</a></li>
-                        <li><a href="services.html" class="hover-style-link">Permanent SAP Recruitment</a></li>
-                        <li><a href="services.html" class="hover-style-link">IT Workforce Solutions</a></li>
+                        <li><a href="services" class="hover-style-link">SAP Contract Staffing</a></li>
+                        <li><a href="services" class="hover-style-link">SAP S/4HANA Implementation</a></li>
+                        <li><a href="services" class="hover-style-link">Permanent SAP Recruitment</a></li>
+                        <li><a href="services" class="hover-style-link">IT Workforce Solutions</a></li>
                     </ul>
                 </div>
 
@@ -52,10 +52,10 @@
                 <div class="col-lg-2 col-md-6 col-sm-6 footer-widget">
                     <h6 class="footer-widget__title mb-20">Quick Links</h6>
                     <ul class="footer-widget__list">
-                        <li><a href="index.html" class="hover-style-link">Home</a></li>
-                        <li><a href="about.html" class="hover-style-link">About Us</a></li>
-                        <li><a href="careers.html" class="hover-style-link">Careers</a></li>
-                        <li><a href="contact.html" class="hover-style-link">Contact</a></li>
+                        <li><a href="index" class="hover-style-link">Home</a></li>
+                        <li><a href="about" class="hover-style-link">About Us</a></li>
+                        <li><a href="careers" class="hover-style-link">Careers</a></li>
+                        <li><a href="contact" class="hover-style-link">Contact</a></li>
                     </ul>
                 </div>
 
@@ -63,10 +63,9 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 footer-widget">
                     <h6 class="footer-widget__title mb-20">Resources</h6>
                     <ul class="footer-widget__list">
-                        <li><a href="contact.html" class="hover-style-link">Request SAP Talent</a></li>
-                        <li><a href="careers.html" class="hover-style-link">Submit Resume</a></li>
-                        <li><a href="#" class="hover-style-link">Privacy Policy</a></li>
-                        <li><a href="#" class="hover-style-link">Terms & Conditions</a></li>
+                        <li><a href="contact" class="hover-style-link">Request SAP Talent</a></li>
+                        <li><a href="careers" class="hover-style-link">Submit Resume</a></li>
+                      
                     </ul>
                 </div>
 

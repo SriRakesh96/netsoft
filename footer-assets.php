@@ -1,10 +1,3 @@
-<!--====================  Scroll Top ====================-->
-<a href="#" class="scroll-top" id="scroll-top">
-    <i class="fas fa-chevron-up"></i>
-</a>
-<!--====================  End Scroll Top  ====================-->
-
-
 
 <!--====================  Mobile Menu Overlay ====================-->
 <div class="mobile-menu-overlay" id="mobile-menu-overlay">
@@ -16,7 +9,7 @@
                 <div class="row align-items-center">
                     <div class="col-8">
                         <div class="logo">
-                            <a href="index.html">
+                            <a href="/">
                                 <img src="img/logo.png" class="img-fluid" alt="Netsoft">
                             </a>
                         </div>
@@ -33,15 +26,15 @@
             <nav class="offcanvas-navigation">
                 <ul>
 
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="/">Home</a></li>
 
-                    <li><a href="about.html">About</a></li>
+                    <li><a href="about">About</a></li>
 
-                    <li><a href="services.html">Services</a></li>
+                    <li><a href="services">Services</a></li>
 
-                    <li><a href="careers.html">Careers</a></li>
+                    <li><a href="careers">Careers</a></li>
 
-                    <li><a href="contact.html">Contact</a></li>
+                    <li><a href="contact">Contact</a></li>
 
                 </ul>
             </nav>
