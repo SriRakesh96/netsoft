@@ -2,21 +2,52 @@
 
 <head>
 
+<!-- Basic Meta -->
+<meta charset="UTF-8">
+
 <title>Contact Netsoft | SAP Staffing & Technology Workforce Solutions USA</title>
 
-<meta name="description" content="Contact Netsoft for SAP contract staffing, SAP S/4HANA consultants, and enterprise workforce solutions. Reach our SAP staffing specialists in Cumming, Georgia, USA.">
+<meta name="description" content="Contact Netsoft for SAP contract staffing, SAP S/4HANA consultants, and enterprise workforce solutions. Speak with our SAP staffing specialists based in Cumming, Georgia serving clients across the United States.">
 
-<meta name="keywords" content="Contact Netsoft, SAP staffing contact USA, SAP consultants Georgia, SAP recruitment firm contact, SAP S/4HANA staffing company">
+<meta name="keywords" content="Contact Netsoft, SAP staffing contact USA, SAP consultants Georgia, SAP recruitment firm USA, SAP S/4HANA staffing company, IT staffing Cumming GA">
 
 <meta name="author" content="Netsoft">
 <meta name="robots" content="index, follow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta property="og:title" content="Contact Netsoft | SAP Technology Staffing Experts">
-<meta property="og:description" content="Speak with our SAP staffing specialists for contract staffing, permanent recruitment, and workforce solutions across the USA.">
+<!-- Canonical -->
+<link rel="canonical" href="https://www.netsoftsi.com/contact">
+
+<!-- Favicon / App Icons -->
+<link rel="icon" type="image/png" sizes="32x32" href="img/share.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/share.png">
+<meta name="theme-color" content="#6f2dbd">
+
+<!-- ===== Open Graph (LinkedIn / WhatsApp / Facebook) ===== -->
+<meta property="og:title" content="Contact Netsoft | SAP Staffing & Workforce Solutions USA">
+<meta property="og:description" content="Get in touch with Netsoft’s SAP staffing experts for contract staffing, permanent SAP recruitment, and enterprise workforce solutions across the U.S.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.netsoftsi.com/contact">
-<meta property="og:image" content="https://www.netsoftsi.com/assets/images/og-image.jpg">
+<meta property="og:image" content="https://www.netsoftsi.com/img/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Netsoft">
+
+<!-- ===== Twitter Card ===== -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contact Netsoft | SAP Staffing Specialists">
+<meta name="twitter:description" content="Connect with Netsoft for SAP S/4HANA consultants, contract staffing, and enterprise workforce solutions in the USA.">
+<meta name="twitter:image" content="https://www.netsoftsi.com/img/share.png">
+
+<!-- ===== Local SEO (Geo Targeting) ===== -->
+<meta name="geo.region" content="US-GA">
+<meta name="geo.placename" content="Cumming, Georgia">
+<meta name="geo.position" content="34.2073;-84.1402">
+<meta name="ICBM" content="34.2073, -84.1402">
+
+<!-- Contact Info -->
+<meta name="contact" content="satishpunati@netsoftsi.com">
+<meta name="phone" content="+1-678-769-5729">
 
 <?php include('head.php');?>
 

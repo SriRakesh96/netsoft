@@ -2,15 +2,41 @@
 
 <head>
 
+<!-- Basic Meta -->
 <title>About Netsoft | SAP Technology Staffing & Workforce Solutions USA</title>
 
-<meta name="description" content="Learn about Netsoft, a US-based SAP technology staffing firm delivering certified SAP consultants, S/4HANA experts, and enterprise workforce solutions across the United States.">
+<meta charset="UTF-8">
+<meta name="description" content="Learn about Netsoft, a US-based SAP technology staffing firm delivering certified SAP consultants, SAP S/4HANA experts, and enterprise workforce solutions across leading U.S. enterprises.">
 
 <meta name="keywords" content="About Netsoft, SAP staffing company USA, SAP recruitment firm Georgia, SAP S/4HANA consultants, SAP workforce solutions, IT staffing company USA">
 
 <meta name="author" content="Netsoft">
 <meta name="robots" content="index, follow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Canonical URL -->
+<link rel="canonical" href="https://www.netsoftsi.com/about">
+
+<!-- Favicon & App Icons -->
+<link rel="icon" type="image/png" sizes="32x32" href="img/share.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/share.png">
+<meta name="theme-color" content="#6f2dbd">
+
+<!-- ===== Open Graph (Facebook, LinkedIn, WhatsApp) ===== -->
+<meta property="og:title" content="About Netsoft | SAP Staffing & Workforce Experts">
+<meta property="og:description" content="Discover how Netsoft connects certified SAP consultants with enterprise transformation projects across the United States.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.netsoftsi.com/about">
+<meta property="og:image" content="https://www.netsoftsi.com/img/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Netsoft">
+
+<!-- ===== Twitter Card ===== -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="About Netsoft | SAP Technology Staffing Experts">
+<meta name="twitter:description" content="US-based SAP staffing specialists delivering certified SAP consultants and workforce solutions for enterprise growth.">
+<meta name="twitter:image" content="https://www.netsoftsi.com/img/share.png">
 
 <?php include('head.php');?>
 

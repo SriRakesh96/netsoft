@@ -2,31 +2,46 @@
 
 
 <head>
+
 <!-- Basic Meta -->
 <title>Netsoft | SAP Technology Staffing & IT Consulting Services USA</title>
 
+<meta charset="UTF-8">
 <meta name="description" content="Netsoft is a US-based technology staffing firm specializing in SAP consulting, SAP implementation, contract staffing, and IT workforce solutions. We connect certified SAP professionals with leading enterprises across the United States.">
 
 <meta name="keywords" content="SAP staffing company USA, SAP consultants, SAP implementation services, SAP contract staffing, SAP recruitment firm, IT staffing Georgia, SAP technology staffing, SAP S/4HANA consultants, Netsoft">
 
 <meta name="author" content="Netsoft">
-
 <meta name="robots" content="index, follow">
-
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<!-- Open Graph (For Social Sharing) -->
-<meta property="og:title" content="Netsoft | SAP Technology Staffing & IT Consulting Services">
+<!-- Canonical URL -->
+<link rel="canonical" href="https://www.netsoftsi.com/">
+
+<!-- ===== Favicon & App Icons ===== -->
+<link rel="icon" type="image/png" sizes="32x32" href="img/share.png">
+<link rel="icon" type="image/png" sizes="16x16" href="img/share.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/share.png">
+<link rel="shortcut icon" href="img/share.png">
+
+<!-- Theme Color -->
+<meta name="theme-color" content="#6f2dbd">
+
+<!-- ===== Open Graph (Facebook, LinkedIn, WhatsApp) ===== -->
+<meta property="og:title" content="Netsoft | SAP Technology Staffing & IT Consulting Services USA">
 <meta property="og:description" content="Trusted SAP-focused technology staffing firm delivering certified SAP consultants and IT workforce solutions across the USA.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.netsoftsi.com/">
-<meta property="og:image" content="https://www.netsoftsi.com/assets/images/og-image.jpg">
+<meta property="og:image" content="https://www.netsoftsi.com/img/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Netsoft">
 
-<!-- Twitter Card -->
+<!-- ===== Twitter Card ===== -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Netsoft | SAP Technology Staffing Experts">
 <meta name="twitter:description" content="Specialized SAP staffing and IT consulting services helping enterprises scale with certified SAP professionals.">
-<meta name="twitter:image" content="https://www.netsoftsi.com/assets/images/og-image.jpg">
+<meta name="twitter:image" content="https://www.netsoftsi.com/img/share.png">
 
 <!-- Contact Information -->
 <meta name="contact" content="satishpunati@netsoftsi.com">
@@ -38,6 +53,7 @@
 <?php include('head.php');?>
 
 </head>
+
 
 <body>
 

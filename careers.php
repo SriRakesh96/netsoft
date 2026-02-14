@@ -2,30 +2,42 @@
 
 <head>
 
+<!-- Basic Meta -->
+<meta charset="UTF-8">
+
 <title>Careers at Netsoft | SAP Consultants & Technology Staffing Opportunities USA</title>
 
-<meta name="description" content="Explore SAP consultant and technology staffing career opportunities at Netsoft. Join our network of certified SAP professionals supporting enterprise digital transformation across the USA.">
+<meta name="description" content="Explore SAP consultant and technology staffing career opportunities at Netsoft. Join our network of certified SAP professionals supporting enterprise digital transformation projects across the United States.">
 
-<meta name="keywords" content="SAP careers USA, SAP consultant jobs, SAP staffing careers, SAP S/4HANA jobs, IT staffing careers, SAP recruitment firm USA">
+<meta name="keywords" content="SAP careers USA, SAP consultant jobs, SAP staffing careers, SAP S/4HANA jobs, IT staffing careers USA, SAP recruitment firm Georgia">
 
 <meta name="author" content="Netsoft">
 <meta name="robots" content="index, follow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+<!-- Canonical -->
 <link rel="canonical" href="https://www.netsoftsi.com/careers">
 
-<!-- Open Graph -->
-<meta property="og:title" content="Careers at Netsoft | SAP Staffing & Consulting Opportunities">
-<meta property="og:description" content="Join Netsoft's network of SAP consultants and technology professionals supporting enterprise clients across the United States.">
+<!-- Favicon / App Icons -->
+<link rel="icon" type="image/png" sizes="32x32" href="img/share.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/share.png">
+<meta name="theme-color" content="#6f2dbd">
+
+<!-- ===== Open Graph (LinkedIn / Facebook / WhatsApp) ===== -->
+<meta property="og:title" content="Careers at Netsoft | SAP Staffing & Consulting Opportunities USA">
+<meta property="og:description" content="Join Netsoft’s SAP consultant network and work on enterprise SAP S/4HANA implementation and transformation projects across the U.S.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.netsoftsi.com/careers">
-<meta property="og:image" content="https://www.netsoftsi.com/assets/images/og-image.jpg">
+<meta property="og:image" content="https://www.netsoftsi.com/img/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Netsoft">
 
-<!-- Twitter -->
+<!-- ===== Twitter Card ===== -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Netsoft Careers | SAP Staffing Opportunities">
-<meta name="twitter:description" content="Looking for SAP consultant opportunities? Connect with Netsoft to explore contract and permanent SAP staffing roles across the USA.">
-<meta name="twitter:image" content="https://www.netsoftsi.com/assets/images/og-image.jpg">
+<meta name="twitter:title" content="Netsoft Careers | SAP Consultant Opportunities">
+<meta name="twitter:description" content="Looking for SAP consulting roles? Explore contract and permanent SAP staffing opportunities with Netsoft across the United States.">
+<meta name="twitter:image" content="https://www.netsoftsi.com/img/share.png">
 
 <?php include('head.php');?>
 
@@ -61,6 +73,7 @@
 </style>
 
 </head>
+
 
 <body>
 

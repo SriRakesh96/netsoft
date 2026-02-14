@@ -2,21 +2,46 @@
 
 <head>
 
-<title>SAP Staffing Services | Netsoft SAP Contract & Workforce Solutions USA</title>
+<!-- Basic Meta -->
+<meta charset="UTF-8">
 
-<meta name="description" content="Netsoft provides SAP contract staffing, SAP S/4HANA consultants, permanent SAP recruitment, and enterprise workforce solutions across the United States.">
+<title>SAP Staffing Services USA | SAP Contract & Workforce Solutions | Netsoft</title>
 
-<meta name="keywords" content="SAP staffing services USA, SAP contract staffing, SAP S/4HANA consultants, SAP recruitment firm, SAP workforce solutions, SAP consulting services">
+<meta name="description" content="Netsoft delivers SAP contract staffing, SAP S/4HANA consultants, permanent SAP recruitment, and enterprise workforce solutions across the United States. Trusted by enterprises for certified SAP experts and digital transformation support.">
+
+<meta name="keywords" content="SAP staffing services USA, SAP contract staffing, SAP S/4HANA consultants, SAP recruitment firm USA, SAP workforce solutions, SAP consulting services, enterprise SAP staffing">
 
 <meta name="author" content="Netsoft">
 <meta name="robots" content="index, follow">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<meta property="og:title" content="Netsoft SAP Staffing & Workforce Solutions">
-<meta property="og:description" content="Certified SAP consultants and contract staffing solutions tailored for enterprise digital transformation.">
+<!-- Canonical -->
+<link rel="canonical" href="https://www.netsoftsi.com/services">
+
+<!-- Favicon / App Icons -->
+<link rel="icon" type="image/png" sizes="32x32" href="img/share.png">
+<link rel="apple-touch-icon" sizes="180x180" href="img/share.png">
+<meta name="theme-color" content="#6f2dbd">
+
+<!-- ===== Open Graph (LinkedIn / Facebook / WhatsApp) ===== -->
+<meta property="og:title" content="SAP Staffing Services USA | Netsoft Workforce Solutions">
+<meta property="og:description" content="Certified SAP consultants for contract staffing, permanent hiring, and SAP S/4HANA transformation projects across the United States.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://www.netsoftsi.com/services">
-<meta property="og:image" content="https://www.netsoftsi.com/assets/images/og-image.jpg">
+<meta property="og:image" content="https://www.netsoftsi.com/img/share.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:site_name" content="Netsoft">
+
+<!-- ===== Twitter Card ===== -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="SAP Staffing & Contract Workforce Solutions | Netsoft">
+<meta name="twitter:description" content="Hire certified SAP S/4HANA consultants and workforce specialists for enterprise transformation across the USA.">
+<meta name="twitter:image" content="https://www.netsoftsi.com/img/share.png">
+
+<!-- Geo Target (USA Focus) -->
+<meta name="geo.region" content="US">
+<meta name="geo.placename" content="United States">
 
 <?php include('head.php');?>
 
@@ -43,8 +68,8 @@
     align-items: center;
     justify-content: center;
 }
-
 </style>
+
 </head>
 
 <body>
