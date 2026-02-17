@@ -245,7 +245,7 @@
 </div>
 </a>
 
-<a href="mailto:satishpunati@netsoftsi.com" class="single-contact-list">
+<a href="mailto:info@netsoftsi.com" class="single-contact-list">
 <div class="content-wrap">
 <div class="content">
 <div class="icon">
@@ -253,7 +253,7 @@
 </div>
 <div class="main-content">
 <h6 class="heading">Email Us</h6>
-<div class="text">satishpunati@netsoftsi.com</div>
+<div class="text">info@netsoftsi.com</div>
 </div>
 </div>
 </div>

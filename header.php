@@ -13,7 +13,7 @@
                                  <li class="info-item">
                                     <i class="info-icon fa fa-map-marker-alt"></i>
                                     <span class="info-text">
-                                        2020 Marcia Overlook Dr, Cumming GA 30041
+                                        2711 PineGrove Rd, Cumming GA 30041
                                     </span>
                                 </li>
                             </ul>

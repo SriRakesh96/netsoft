@@ -46,7 +46,7 @@
 <meta name="ICBM" content="34.2073, -84.1402">
 
 <!-- Contact Info -->
-<meta name="contact" content="satishpunati@netsoftsi.com">
+<meta name="contact" content="info@netsoftsi.com">
 <meta name="phone" content="+1-678-769-5729">
 
 <?php include('head.php');?>
@@ -156,13 +156,13 @@
                 <div class="conact-info-wrap mt-30">
                     <h5 class="heading mb-20">Head Office</h5>
                     <ul class="conact-info__list">
-                        <li>2020 Marcia Overlook Dr</li>
+                        <li>2711 PineGrove Rd</li>
                         <li>Cumming, GA 30041</li>
                         <li>United States</li>
                         <li>
-                            <a href="mailto:satishpunati@netsoftsi.com"
+                            <a href="mailto:info@netsoftsi.com"
                                class="hover-style-link text-color-primary">
-                               satishpunati@netsoftsi.com
+                               info@netsoftsi.com
                             </a>
                         </li>
                         <li>

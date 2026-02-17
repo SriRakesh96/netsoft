@@ -130,7 +130,7 @@
                     </p>
 
                     <div class="mt-4">
-                        <a href="mailto:satishpunati@netsoftsi.com"
+                        <a href="mailto:info@netsoftsi.com"
                            class="btn brand-bg">
                            Submit Your Resume
                         </a>

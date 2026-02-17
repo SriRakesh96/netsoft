@@ -44,7 +44,7 @@
 <meta name="twitter:image" content="https://www.netsoftsi.com/img/share.png">
 
 <!-- Contact Information -->
-<meta name="contact" content="satishpunati@netsoftsi.com">
+<meta name="contact" content="info@netsoftsi.com">
 <meta name="phone" content="+1-678-769-5729">
 <meta name="geo.region" content="US-GA">
 <meta name="geo.placename" content="Cumming, Georgia">

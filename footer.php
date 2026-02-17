@@ -18,10 +18,10 @@
                     </p>
 
                     <ul class="footer-widget__list mt-3">
-                        <li>2020 Marcia Overlook Dr, Cumming, GA 30041, USA</li>
+                        <li>2711 PineGrove Rd, Cumming GA 30041, United States</li>
                         <li>
-                            <a href="mailto:satishpunati@netsoftsi.com" class="hover-style-link">
-                                satishpunati@netsoftsi.com
+                            <a href="mailto:info@netsoftsi.com" class="hover-style-link">
+                                info@netsoftsi.com
                             </a>
                         </li>
                         <li>
