@@ -8,7 +8,7 @@
                 <!-- Company Info -->
                 <div class="col-lg-4 col-md-6 col-sm-6 footer-widget">
                     <div class="footer-widget__logo mb-30">
-                        <img src="img/logo.png" width="160" class="img-fluid" alt="Netsoft">
+                        <img src="img/logo.png" width="200" class="img-fluid" alt="Netsoft">
                     </div>
 
                     <p>

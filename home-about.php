@@ -58,39 +58,17 @@
             <div class="col-lg-6">
                 <div class="rv-video-section">
 
-                    <div class="ht-banner-01">
-                        <img class="img-fluid border-radus-5 animation_images one wow fadeInDown"
-                             src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-02.webp"
-                             alt="SAP Consulting Team">
-                    </div>
-
-                    <div class="ht-banner-02">
-                        <img class="img-fluid border-radus-5 animation_images two wow fadeInDown"
-                             src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-03.webp"
-                             alt="Enterprise SAP Solutions">
-                    </div>
 
                     <!-- Main Center Image -->
                     <div class="main-video-box">
                         <div class="single-popup-wrap">
                             <img class="img-fluid border-radus-5"
-                                 src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-01.webp"
+                                 src="img/about.webp"
                                  alt="SAP Technology Staffing Services">
                         </div>
                     </div>
 
-                    <div class="ht-banner-03">
-                        <img class="img-fluid border-radus-5 animation_images three wow fadeInDown"
-                             src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-04.webp"
-                             alt="SAP Workforce Solutions">
-                    </div>
-
-                    <div class="ht-banner-04">
-                        <img class="img-fluid border-radus-5 animation_images four wow fadeInDown"
-                             src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-05.webp"
-                             alt="Digital Transformation Experts">
-                    </div>
-
+              
                 </div>
             </div>
 

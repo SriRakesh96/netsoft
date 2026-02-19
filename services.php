@@ -218,7 +218,7 @@
 
 <div class="col-lg-7">
 <div class="image">
-<img class="img-fluid" src="assets/images/banners/home-cybersecurity-contact-bg-image.webp" alt="SAP Staffing Consultation">
+<img class="img-fluid" src="img/hire-talent.webp" alt="SAP Staffing Consultation">
 </div>
 </div>
 

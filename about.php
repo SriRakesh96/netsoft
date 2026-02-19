@@ -186,7 +186,7 @@ reliable SAP staffing solutions that deliver measurable business impact.
 
 <div class="col-lg-6 text-center">
 <img class="img-fluid border-radus-5"
-     src="assets/images/banners/home-processing-video-intro-slider-slide-01-image-02.webp"
+     src="img/about-sap.webp"
      alt="Netsoft SAP Workforce">
 </div>
 
